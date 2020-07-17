@@ -1,4 +1,4 @@
-module github.com/dsoprea/go-utility
+module github.com/admpub/go-utility
 
 go 1.13
 
